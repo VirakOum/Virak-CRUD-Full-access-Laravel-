@@ -1,8 +1,8 @@
 name: virak
 description: "A Flutter package providing utilities and widgets for CRUD operations with REST APIs."
 version: 0.0.2
-homepage: https://github.com/Virak459/virak
-repository: https://github.com/Virak459/virak
+homepage: https://github.com/VirakOum/Virak-CRUD-Full-access-Laravel-.git
+repository: https://github.com/VirakOum/Virak-CRUD-Full-access-Laravel-.git
 license: MIT
 environment:
   sdk: ^3.8.1
